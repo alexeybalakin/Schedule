@@ -1,0 +1,15 @@
+<resources>
+    <string name="deprtureStation">Станция отправления:</string>
+    <string name="setDepartureStation">Выберите станцию отправления</string>
+    <string name="destinationStation">Станция прибытия</string>
+    <string name="destinationStationSet">Выберите станцию прибытия</string>
+    <string name="departureDate">Дата отправления</string>
+    <string name="departureDateSet">Выберите дату</string>
+    <string name="copyright">© Alexey Balakin</string>
+    <string name="schedule">Расписание</string>
+    <string name="about">О приложении</string>
+    <string name="testTask">Тестовое задание</string>
+    <string name="searchStation">Поиск по станциям</string>
+    <string name="appName">Schedule</string>
+
+</resources>
